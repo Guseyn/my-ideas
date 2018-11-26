@@ -5,3 +5,6 @@ My ideas. Any.
 
 1. Any story can be dramatic. Just turn on dramatic music.
 
+## Apps
+
+1. Something that hepls read artciles from the web
