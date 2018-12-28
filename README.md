@@ -12,3 +12,4 @@ My ideas. Any.
 3. App for splitting mp3 files into layers and combine them in custom order and musical arrangement, probably I'd need some sort of AI.
 4. App for ordering, selling and publishing audiobooks.
 5. App that replaces recruiters, where you can find job or find programmers, it's also aggregator of information from github, stack overflow and so on. You can put there resume, find programmers for startup, search by skills and many other things
+6. Aggregator of video games like flickmetrix 
