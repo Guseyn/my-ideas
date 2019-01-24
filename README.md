@@ -14,3 +14,7 @@ My ideas. Any.
 5. App that replaces recruiters, where you can find job or find programmers, it's also aggregator of information from github, stack overflow and so on. You can put there resume, find programmers for startup, search by skills and do many other things
 6. Aggregator of video games like flickmetrix 
 7. Application(AI) that posts new content every day(articles, videos, books, news, music, etc.) that based on user's preferences. The main point is to increase user's preferences.
+
+# Articles
+
+1. about certifications
