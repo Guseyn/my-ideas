@@ -21,3 +21,4 @@ My ideas. Any.
 1. about certifications
 2. What's wrong with async/await
 3. Declarative Node.js
+4. Declarative javascript on UI
