@@ -22,3 +22,4 @@ My ideas. Any.
 2. What's wrong with async/await
 3. Declarative Node.js
 4. Declarative javascript on UI
+5. How do I use travis-ci
