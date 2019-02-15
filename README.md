@@ -15,6 +15,7 @@ My ideas. Any.
 6. Aggregator of video games like flickmetrix 
 7. Application(AI) that posts new content every day(articles, videos, books, news, music, etc.) that based on user's preferences. The main point is to increase user's preferences.
 8. App with html elements and templates with html code view. 
+9. Create my AI version of chess (I need to study neural networks)
 
 # Articles
 
