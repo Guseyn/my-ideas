@@ -28,4 +28,5 @@ My ideas. Any.
 5. How I use travis-ci
 6. We all don't need outsourcing companies
 7. Is copy paste always bad?
-8.Are you ready for freedom 
+8. Are you ready for freedom 
+9. Use magic numbers, because they are not
