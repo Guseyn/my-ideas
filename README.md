@@ -17,6 +17,7 @@ My ideas. Any.
 8. App with html elements and templates with html code view. 
 9. Create my AI(or not) version of chess (based on pure principles and logic)
 10. Create website with analysis of lyrics and tunes of songs
+11. App for checking availability of websites and notifying if something fail
 
 # Articles
 
