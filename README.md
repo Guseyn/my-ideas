@@ -24,7 +24,7 @@ My ideas. Any.
 
 1. about certifications
 2. What's wrong with async/await
-3. Declarative Node.js
+3. Declarative Node.js (Promise compositions are not compositions)
 4. Declarative javascript on UI
 5. How I use travis-ci
 6. We all don't need outsourcing companies
