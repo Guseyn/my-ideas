@@ -31,3 +31,4 @@ My ideas. Any.
 7. Is copy paste always bad?
 8. Are you ready for freedom 
 9. Use magic numbers, because they are not
+10. Why do we really need programming? 
