@@ -26,7 +26,7 @@ My ideas. Any.
 2. What's wrong with async/await
 3. Declarative Node.js (Promise compositions are not compositions)
 4. Declarative javascript on UI
-[5. How I use travis-ci](https://guseyn.com/posts/travis-control-quality?v=1.0.64)
+5. [How I use travis-ci](https://guseyn.com/posts/travis-control-quality?v=1.0.64)
 6. We all don't need outsourcing companies
 7. Is copy paste always bad?
 8. Are you ready for freedom 
