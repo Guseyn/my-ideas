@@ -19,6 +19,7 @@ My ideas. Any.
 10. Create website with analysis of lyrics and tunes of songs
 11. App for checking availability of websites and notifying if something fail
 12. multiple copy paste buffer
+13. Time converter (simple and without bullshit)
 
 # Articles
 
