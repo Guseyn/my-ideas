@@ -20,7 +20,8 @@ My ideas. Any.
 11. App for checking availability of websites and notifying if something fail
 12. multiple copy paste buffer
 13. Time converter (simple and without bullshit)
-14. SVG note sheets generator
+14. SVG sheet music generator
+15. Mobile app for ssh remote commands (start server or smth like this)
 
 # Articles
 
