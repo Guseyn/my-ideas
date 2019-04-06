@@ -46,7 +46,7 @@ Let's say we have this
 new ParsedJSON(
   new StringFromBuffer(
     new ResponseBody(
-      new ResponseFromHttpsGetRequttest(
+      new ResponseFromHttpsGetRequest(
         requestOptions
       )
     )
