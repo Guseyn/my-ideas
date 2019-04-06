@@ -35,3 +35,30 @@ My ideas. Any.
 8. Are you ready for freedom 
 9. Use magic numbers, because they are not
 10. Why do we really need programming? 
+
+## open source
+
+Library that can predict by name of your object what it does and you don't have to write big compoistion of async objects.
+
+Let's say we have this
+
+```js
+new ParsedJSON(
+  new StringFromBuffer(
+    new ResponseBody(
+      new ResponseFromHttpsGetRequttest(
+        requestOptions
+      )
+    )
+  )
+).call()
+```
+
+And now we instead can write smth like
+
+```js
+JSONFromHttpsRequest(requestOptions).call()
+```
+
+
+
