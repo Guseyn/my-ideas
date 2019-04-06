@@ -38,7 +38,7 @@ My ideas. Any.
 
 ## open source
 
-Library that can predict by name of your object what it does and you don't have to write big compoistion of async objects.
+Library that can predict by name of your object what it does and you don't have to write a big compoistion of async objects.
 
 Let's say we have this
 
