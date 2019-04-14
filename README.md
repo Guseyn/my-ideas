@@ -36,6 +36,7 @@ My ideas. Any.
 9. Use magic numbers, because they are not
 10. Why do we really need programming? 
 11. It does not matter how many arguments your function have.
+12. skizo - app for creating text drafts
 
 ## open source
 
