@@ -22,7 +22,8 @@ My ideas. Any.
 13. Time converter (simple and without bullshit)
 14. SVG sheet music generator
 15. Mobile app for ssh remote commands (start server or smth like this)
-12. skizo - app for creating text drafts
+16. skizo - app for creating text drafts
+17. App for code reviewers
 
 # Articles
 
