@@ -24,6 +24,7 @@ My ideas. Any.
 15. Mobile app for ssh remote commands (start server or smth like this)
 16. skizo - app for creating text drafts
 17. App for code reviewers
+18. Cute website with math stuff 
 
 # Articles
 
