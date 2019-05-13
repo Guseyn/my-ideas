@@ -25,6 +25,7 @@ My ideas. Any.
 16. skizo - app for creating text drafts
 17. App for code reviewers
 18. Cute website with math stuff 
+19. Web site with clear educational stuff(music for beginning would be great)
 
 # Articles
 
@@ -65,5 +66,6 @@ And now we instead can write smth like
 JSONFromHttpsRequest(requestOptions).call()
 ```
 
+**EHTML**
 
 
