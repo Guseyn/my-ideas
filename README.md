@@ -47,7 +47,7 @@ My ideas. Any.
 
 ## open source
 
-Library that can predict by name of your object what it does and you don't have to write a big compoistion of async objects.
+1.Library that can predict by name of your object what it does and you don't have to write a big compoistion of async objects.
 
 Let's say we have this
 
@@ -69,6 +69,8 @@ And now we instead can write smth like
 JSONFromHttpsRequest(requestOptions).call()
 ```
 
-**EHTML**
+2. **EHTML**
+
+3. Console.table
 
 
