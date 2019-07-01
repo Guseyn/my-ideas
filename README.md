@@ -29,7 +29,7 @@ My ideas. Any.
 20. App for song writers
 21. Tasks pool, market, exchange (exports tasks from github to the common pool, can filtered by labels and stuff like that, also possible to sell tasks, and add ability to split tasks if it's really big, you can help to split it) 
 22. internet magazine
-23. Create game: FM (strategy where you can setup environment and play with friends).
+23. Create game like FM (strategy where you can setup environment and play with friends).
 
 # Articles
 
