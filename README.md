@@ -30,6 +30,7 @@ My ideas. Any.
 21. Tasks pool, market, exchange (exports tasks from github to the common pool, can filtered by labels and stuff like that, also possible to sell tasks, and add ability to split tasks if it's really big, you can help to split it) 
 22. internet magazine
 23. Create game like FM (strategy where you can setup environment and play with friends).
+24. Decentralized git tool.
 
 # Articles
 
