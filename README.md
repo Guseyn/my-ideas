@@ -33,6 +33,8 @@ My ideas. Any.
 24. Decentralized git tool.
 25. Internet Tool Box
 
+26. A tool that helps you to improve your listening skills, like what is the cord, what is the melody with profecionally recorded audio on different musical instruments.
+
 # Articles
 
 1. about certifications
