@@ -34,6 +34,7 @@ My ideas. Any.
 25. Internet Tool Box
 
 26. A tool that helps you to improve your listening skills, like what is the chord, what is the melody with professionally recorded audios on different musical instruments.
+27. Tree structured management tool
 
 # Articles
 
